@@ -2,11 +2,11 @@
 
 > **[Read in English](README.md)**
 
-Uma skill para o Claude que converte documentos PDF em arquivos EPUB reflowable, otimizados para e-readers e apps de leitura mobile como Apple Books, Kindle e Kobo.
+Uma skill para o Claude que converte documentos PDF em arquivos EPUB, otimizados para e-readers e apps de leitura mobile como Apple Books, Kindle e Kobo.
 
 ## O problema
 
-PDFs têm layout fixo. Funcionam bem no desktop, mas ler um PDF de 30 páginas no iPhone significa ficar o tempo todo beliscando, dando zoom e rolando na horizontal. EPUB é o formato nativo dos e-readers: o texto se ajusta a qualquer tela, o usuário controla o tamanho da fonte e o espaçamento, e a navegação por capítulos funciona nativamente.
+PDFs têm layout fixo. Funcionam bem no desktop, mas ler um PDF de 30 páginas no celular significa ficar o tempo todo ampliando, dando zoom e rolando na horizontal. EPUB é o formato nativo dos e-readers: o texto se ajusta a qualquer tela, o usuário controla o tamanho da fonte e o espaçamento, e a navegação por capítulos funciona nativamente.
 
 Essa skill ensina o Claude a pegar qualquer PDF e produzir um EPUB limpo e bem estruturado, confortável de ler no celular, tablet ou e-reader.
 
